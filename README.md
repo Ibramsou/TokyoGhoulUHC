@@ -2,7 +2,7 @@
 
 Here is an old plugin I've done for a closed server.
 
-Take in mind that the code is 2 years old,
+Keep in mind that the code is 2 years old,
 
 My skills weren't as well as today
 
