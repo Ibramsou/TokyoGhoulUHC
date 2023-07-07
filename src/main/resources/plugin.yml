@@ -1,0 +1,7 @@
+name: TokyoGhoul
+version: 1.0.0
+author: Hysekai
+main: fr.hysekai.tokyo.TokyoGhoulPlugin
+depend: [UltraHardcoreAPI]
+commands:
+  test:
