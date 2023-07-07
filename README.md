@@ -4,7 +4,7 @@ Here is an old plugin I've done for a closed server.
 
 Take in mind that the code is 2 years old,
 
-My skills wasn't as well as today
+My skills weren't as well as today
 
 Some part of the project is not optimized because it is old, and the plugin can't be used for a party with more than 40 players
 
